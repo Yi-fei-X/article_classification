@@ -1,4 +1,4 @@
-# article_classification
+# Article Classification
 
 The goal of this assignment is to classify documents in a corpus.  
 
